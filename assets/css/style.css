@@ -56,3 +56,16 @@ header .line {
   height: 24px;
   cursor: pointer;
 }
+.banner h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  line-height: 70px;
+}
+.banner img {
+  height: 250px;
+}
+.banner-images {
+    display: flex;
+    justify-content: center;
+}
